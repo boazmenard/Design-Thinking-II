@@ -1,7 +1,4 @@
-'''
-This module contains functions that enable the PiCar-S to follow a line.
-The function
-'''
+### BY BOAZ MENARD AND BRANDON ELMORE ###
 DISTANCE_THRESHOLD = 3  # distance in inches within which an object is detected
 STARTING_SPEED = 50
 
