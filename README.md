@@ -5,7 +5,7 @@ The robot only has 15 minutes to complete this.
 
 ## Group Name: Klingons
 
-## Members: Terrel Cook, Brandon Elmore, Matthew Ward, Boaz Menard
+## Members: Terrell Cook, Brandon Elmore, Matthew Ward, Boaz Menard
 
 ### Tools
 - Pi-Car (robot)
