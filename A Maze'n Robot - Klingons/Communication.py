@@ -1,3 +1,4 @@
+### BY TERRELL COOK AND BRANDON ELMORE ###
 from __future__ import print_function
 from PIL import Image
 import Pyro4
